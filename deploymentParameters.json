@@ -16,13 +16,13 @@
               "keyVault": {
                 "id": "20830"
               },
-              "secretName": "adminPassword"
+              "secretName": "/subscriptions/9f6ec589-a4fc-4ce7-aa65-0eb91940c609/resourceGroups/tailspin-spacegame-web-rg/providers/Microsoft.KeyVault/vaults/tailspin-vault-20830"
             }
         },
         "firstRun": {
             "reference": {
                 "keyVault": {
-                    "id": "/subscriptions/9f6ec589-a4fc-4ce7-aa65-0eb91940c609/resourceGroups/tailspin-spacegame-web-rg/providers/Microsoft.KeyVault/vaults/tailspin-vault-20830"
+                    "id": "tailspin-vault-20830"
                 },
                 "secretName": "firstRun"
             }
